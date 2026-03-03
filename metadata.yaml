@@ -1,0 +1,5 @@
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/affiliate-future-tag'
+versions:
+  - sha: d76f15cdd75cc6594141235469cfc04a662c1065
+    changeNotes: Initial release.
