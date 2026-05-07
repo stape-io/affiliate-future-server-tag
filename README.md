@@ -58,3 +58,6 @@ This section controls how the tag handles user consent for setting and reading t
 ## Open Source
 
 The **Affiliate Future Tag for GTM Server-Side** is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/affiliate-future-server-tag)
