@@ -1,5 +1,7 @@
 homepage: 'https://stape.io/'
 documentation: 'https://github.com/stape-io/affiliate-future-server-tag'
 versions:
+  - sha: 862d75e6d4a14406f780bd8c9ae3c4a49a4aa5a1
+    changeNotes: Logging removal.
   - sha: d76f15cdd75cc6594141235469cfc04a662c1065
     changeNotes: Initial release.
